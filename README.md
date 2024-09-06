@@ -1,4 +1,5 @@
 # Hatred on Twitter During MeToo Movement Dataset
+### Author: Edaurd Pascale
 
 In this report, I will provide an overview of data modeling, including its importance, process, and techniques used in developing a data model. I will then demonstrate the application of data modeling by using a dataset from kaggle.
 This dataset belongs to the MeToo movement on Twitter. This movement was against the sexual harassment incidents and many people posted various hatred tweets. Using this dataset, we can build a model that can accurately classify hatred and non-hatred tweets to restrict its spread.
